@@ -238,6 +238,25 @@ https://www.youtube.com/watch?v=6GIw04ieGv4
 </details>
 
 <details>
+<summary>Codechef Starters</summary>
+<br>
+About <br>
+Starters is a global programming event that invites programmers from all over the world to take part in India’s most prestigious multi-round programming competition. Hosted by CodeChef, Starters is open to anyone with a knack for programming.
+Starters aims to pit the finest programming brains from different parts of the globe against each other.  <br>
+<br>
+Official Website- <br>
+https://www.codechef.com/START59?itm_medium=hpbanner_1&itm_campaign=START59<br>
+<br>
+</details>
+
+
+
+
+
+
+
+
+<details>
 <summary>Coderita 2.0 by GeeksforGeeks</summary>
 <br>
 About<br>
